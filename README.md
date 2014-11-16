@@ -1,14 +1,4 @@
 
-# emacs-peacock-theme
+# Emacs peacock theme
 
-TODO: Add a proper README.md
-
-## Description
-
-## Usage
-
-## Licence
-
-## Contributing
-
-
+![](https://github.com/emacsfodder/emacs-peacock-theme/raw/master/peacock-theme.png)
